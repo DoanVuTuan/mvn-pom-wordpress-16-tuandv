@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Nop Commerce]">
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="reportConfig.ExtentListener"/>
+  </listeners>
+  <test thread-count="5" name="Run on chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://demo.nopcommerce.com/"/>
+    <classes>
+      <class name="com.nopcommerce.endUser.Register_03_Data_Driven">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="Post_01_Register_To_System"/>
+          <include name="afterClass"/>
+          <include name="Post_02_Verify_My_Account"/>
+        </methods>
+      </class> <!-- com.nopcommerce.endUser.Register_03_Data_Driven -->
+    </classes>
+  </test> <!-- Run on chrome(failed) -->
+</suite> <!-- Failed suite [Nop Commerce] -->

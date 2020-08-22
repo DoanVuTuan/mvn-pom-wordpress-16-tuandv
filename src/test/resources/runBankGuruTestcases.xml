@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Bank Guru" parallel="false">
+
+	<test name="Run on Firefox browsers">
+		<parameter name="browser" value="firefox"></parameter>
+		<classes>
+
+			<class name="com.bankguru.login.Login_03_Dynamic_Page_Element" />
+			
+		</classes>
+
+	</test>
+
+</suite> 

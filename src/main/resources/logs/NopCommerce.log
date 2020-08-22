@@ -1,0 +1,701 @@
+2020-08-06 10:42:55,765 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 10:42:55,778 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 10:42:55,951 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 10:42:56,216 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 10:42:56,847 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 10:42:57,111 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify header text displayed
+2020-08-06 10:43:01,063 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Click to Screen option : open/active
+2020-08-06 10:43:03,355 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Activity Checkbox' displayed
+2020-08-06 10:43:03,395 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Click to Screen option : close/inactive
+2020-08-06 10:43:05,660 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Activity Checkbox' displayed
+2020-08-06 10:43:05,717 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'All Posts menu ' displayed
+2020-08-06 10:43:05,748 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' displayed
+2020-08-06 10:43:10,792 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 10:48:15,002 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 10:48:15,017 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 10:48:15,185 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 10:48:15,446 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 10:48:16,087 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 10:48:16,345 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 10:48:20,607 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option : open/active
+2020-08-06 10:48:22,897 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity Checkbox' displayed
+2020-08-06 10:48:23,084 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option : close/inactive
+2020-08-06 10:48:25,368 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 10:48:25,405 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 10:48:25,435 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 10:48:30,493 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 10:53:45,025 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 10:53:45,038 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 10:53:45,228 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 10:53:45,502 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 10:53:46,120 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 10:53:46,383 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 10:53:52,387 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 10:53:52,393 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option : open/active
+2020-08-06 10:53:54,688 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity Checkbox' displayed
+2020-08-06 10:53:54,728 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 10:53:54,729 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option : close/inactive
+2020-08-06 10:53:56,994 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 10:53:57,031 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 10:53:57,031 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 10:53:57,057 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 10:53:57,061 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 10:54:02,094 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 10:54:02,095 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 10:54:51,685 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 10:54:51,700 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 10:54:51,868 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 10:54:52,132 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 10:54:52,773 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 10:54:53,038 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 10:54:58,168 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 10:54:58,172 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option : open/active
+2020-08-06 10:55:03,464 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity Checkbox' displayed
+2020-08-06 10:55:03,498 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 10:55:03,498 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option : close/inactive
+2020-08-06 10:55:08,775 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 10:55:08,809 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 10:55:08,809 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 10:55:08,834 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 10:55:08,838 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 10:55:13,866 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 10:55:13,868 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 11:00:44,700 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:00:50,065 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:00:55,368 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:00:55,395 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:01:00,429 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:11:19,249 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:11:24,626 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:11:29,924 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:11:29,951 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:11:34,978 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:13:54,932 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:14:00,269 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:14:05,567 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:14:05,594 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:14:10,625 INFO  com.wordpress.login.Login_11_Assert_Verify -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:22:53,798 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 11:22:53,813 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 11:22:53,974 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 11:22:54,242 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 11:22:54,878 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 11:22:55,139 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 11:22:59,573 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:22:59,578 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 11:23:04,880 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 11:23:04,906 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:23:04,907 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 11:23:10,180 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 11:23:10,209 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:23:10,209 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 11:23:10,237 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:23:10,241 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 11:23:15,279 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:23:15,281 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 11:35:00,521 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 11:35:00,535 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 11:35:00,728 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 11:35:01,002 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 11:35:01,633 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 11:35:01,893 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 11:35:07,535 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:35:07,539 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 11:35:12,837 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 11:35:38,821 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 11:35:40,120 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 11:36:01,587 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 11:36:01,603 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 11:36:01,769 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 11:36:02,046 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 11:36:02,659 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 11:36:02,919 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 11:36:09,331 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:36:09,336 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 11:36:14,631 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 11:36:38,952 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:36:38,952 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 11:36:44,208 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 11:37:08,589 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:37:08,590 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 11:37:38,719 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 11:37:39,779 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 11:38:39,611 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 11:38:39,625 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 11:38:39,797 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 11:38:40,070 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 11:38:41,258 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 11:38:41,517 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 11:38:45,943 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:38:45,950 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 11:38:48,240 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 11:39:18,416 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 11:39:23,441 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:39:23,442 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 11:43:55,791 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 11:43:55,806 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 11:43:55,983 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 11:43:56,258 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 11:43:56,876 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 11:43:57,166 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 11:44:07,932 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:44:07,938 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 11:44:10,224 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 11:44:19,385 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:44:19,385 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 11:44:21,651 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 11:44:51,796 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 11:44:56,836 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:44:56,838 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 11:51:30,812 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 11:51:30,827 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 11:51:30,992 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 11:51:31,263 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 11:51:31,908 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 11:51:32,170 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 11:51:36,809 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:51:36,814 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 11:51:39,161 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 11:51:39,198 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:51:39,199 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 11:51:41,469 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 11:51:41,494 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:51:41,494 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 11:51:41,521 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:51:41,523 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 11:51:46,556 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:51:46,558 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 11:52:52,424 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 11:52:52,438 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 11:52:52,616 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 11:52:52,884 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 11:52:53,511 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 11:52:53,769 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 11:52:59,856 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:52:59,862 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 11:53:03,146 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 11:53:07,961 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:53:07,961 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 11:53:11,223 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 11:53:41,383 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 11:53:46,419 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:53:46,421 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 11:55:21,347 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 11:55:21,360 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 11:55:21,526 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 11:55:21,817 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 11:55:22,440 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 11:55:22,696 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 11:55:26,638 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:55:26,644 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 11:55:29,928 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 11:55:29,963 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:55:29,964 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 11:55:33,245 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 11:55:33,284 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- FAILED -------------------------- 
+2020-08-06 11:55:33,284 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 11:55:33,310 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:55:33,316 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 11:55:38,343 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:55:38,344 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 11:57:31,248 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 11:57:31,262 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 11:57:31,434 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 11:57:31,713 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 11:57:32,338 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 11:57:32,607 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 11:57:36,581 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:57:36,586 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 11:57:42,865 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 11:57:42,904 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:57:42,904 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 11:57:49,190 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 11:57:49,216 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:57:49,216 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 11:57:49,243 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:57:49,245 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 11:57:54,269 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 11:57:54,271 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 13:45:08,898 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 13:45:08,908 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 13:45:09,095 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 13:45:09,365 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 13:45:09,985 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 13:45:10,240 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 13:45:17,117 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:45:17,123 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 13:45:27,421 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 13:45:27,447 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:45:27,447 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 13:45:37,716 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 13:45:37,743 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:45:37,743 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 13:45:37,773 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:45:37,775 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 13:45:42,808 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:45:42,809 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 13:49:35,745 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 13:49:35,757 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 13:49:35,924 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 13:49:36,195 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 13:49:36,814 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 13:49:37,078 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 13:49:42,869 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:49:42,875 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 13:49:53,181 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 13:49:53,212 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:49:53,212 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 13:50:03,483 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 13:50:03,508 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:50:03,508 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 13:50:03,538 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:50:03,540 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 13:50:08,567 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:50:08,569 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 13:55:35,272 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 13:55:35,288 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 13:55:35,504 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 13:55:35,803 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 13:55:36,425 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 13:55:36,690 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 13:55:42,777 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:55:42,782 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 13:55:53,071 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 13:55:53,099 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:55:53,099 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 13:56:03,365 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 13:56:03,390 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:56:03,390 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 13:56:03,414 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:56:03,416 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 13:56:08,442 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 13:56:08,443 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 14:50:13,017 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 14:50:13,031 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 14:50:13,203 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 14:50:13,472 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 14:50:14,106 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 14:50:14,361 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 14:50:19,116 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:50:19,121 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 14:50:29,414 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 14:50:29,442 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:50:29,442 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 14:50:39,714 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 14:50:39,740 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:50:39,740 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 14:50:39,766 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:50:39,769 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 14:50:44,798 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:50:44,799 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 14:53:46,768 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 14:53:46,781 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 14:53:46,952 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 14:53:47,227 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 14:53:47,848 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 14:53:48,104 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 14:53:51,904 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:53:51,910 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 14:54:02,200 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 14:54:02,236 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:54:02,236 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 14:54:12,507 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 14:54:12,532 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:54:12,532 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 14:54:12,557 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:54:12,559 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 14:54:17,588 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:54:17,590 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-06 14:57:26,470 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-06 14:57:26,485 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-06 14:57:26,650 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-06 14:57:26,918 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-06 14:57:27,556 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-06 14:57:27,830 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-06 14:57:34,548 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:57:34,555 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-06 14:57:44,840 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-06 14:57:44,868 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:57:44,868 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-06 14:57:55,134 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-06 14:57:55,173 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:57:55,173 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-06 14:57:55,197 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:57:55,200 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-06 14:58:00,224 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-06 14:58:00,225 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-07 12:31:07,053 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-07 12:34:30,918 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-09 00:33:33,242 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-09 00:33:33,259 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-09 00:33:33,510 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-09 00:33:33,624 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-09 00:33:34,901 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-09 00:33:34,982 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-09 00:33:38,893 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-09 00:33:38,902 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-09 00:33:49,115 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-09 00:33:49,160 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-09 00:33:49,160 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-09 00:33:59,317 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-09 00:33:59,380 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-09 00:33:59,380 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-09 00:33:59,438 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-09 00:33:59,440 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-09 00:34:04,502 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-09 00:34:04,504 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-09 00:41:20,506 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Pre-condition : Step 01 - Navigate to login page
+2020-08-09 00:41:20,520 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-09 00:41:20,760 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-09 00:41:20,901 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-09 00:41:21,618 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-09 00:41:21,704 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-09 00:41:24,736 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-09 00:41:24,740 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Click to Screen option
+2020-08-09 00:41:34,945 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 03 - Verify 'Activity' checkbox is displayed
+2020-08-09 00:41:35,006 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-09 00:41:35,006 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 04 - Click to Screen option 
+2020-08-09 00:41:45,169 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 05 - Verify 'Activity Checkbox' undisplayed
+2020-08-09 00:41:45,223 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-09 00:41:45,223 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 06 - Verify 'All Posts menu ' undisplayed
+2020-08-09 00:41:45,272 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-09 00:41:45,274 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Dasboard Page : Step 02 - Verify 'Plans Menu' undisplayed
+2020-08-09 00:41:50,365 INFO  com.wordpress.login.Login_12_Log_Report_HTML -  -------------------------- PASSED -------------------------- 
+2020-08-09 00:41:50,366 INFO  com.wordpress.login.Login_12_Log_Report_HTML - Post-condition : Close browser
+2020-08-14 15:40:47,179 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-14 15:40:47,211 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-14 15:40:47,427 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-14 15:40:47,540 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-14 15:40:48,259 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-14 15:40:48,342 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-14 15:40:52,403 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-14 15:40:52,422 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-14 15:40:52,422 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-14 15:40:53,271 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-16 09:05:19,778 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-16 09:05:19,795 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-16 09:05:20,085 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-16 09:05:20,206 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-16 09:05:20,897 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-16 09:05:20,967 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-16 09:05:24,220 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:06:06,937 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-16 09:06:06,938 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-16 09:06:07,699 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-16 09:11:05,835 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-16 09:11:05,838 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-16 09:11:06,040 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-16 09:11:06,139 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-16 09:11:06,811 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-16 09:11:06,883 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-16 09:11:09,954 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:11:17,186 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- FAILED -------------------------- 
+2020-08-16 09:11:47,304 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-16 09:11:47,304 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-16 09:11:48,113 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-16 09:38:40,014 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-16 09:38:40,017 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-16 09:38:40,225 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-16 09:38:40,335 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-16 09:38:41,003 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-16 09:38:41,084 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-16 09:38:44,359 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:38:51,613 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:39:21,838 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-16 09:39:21,839 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-16 09:39:22,580 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-16 09:42:08,963 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-16 09:42:08,967 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-16 09:42:09,183 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-16 09:42:09,281 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-16 09:42:09,955 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-16 09:42:10,028 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-16 09:42:13,718 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:42:21,716 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- FAILED -------------------------- 
+2020-08-16 09:42:24,320 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:42:25,462 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-16 09:42:25,462 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-16 09:42:26,335 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-16 09:48:02,213 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-16 09:48:02,217 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-16 09:48:02,407 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-16 09:48:02,500 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-16 09:48:03,166 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-16 09:48:03,234 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-16 09:48:07,093 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:48:16,572 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:48:19,168 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:48:20,312 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-16 09:51:09,161 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-16 09:51:09,165 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-16 09:51:09,364 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-16 09:51:09,461 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-16 09:51:10,132 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-16 09:51:10,201 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-16 09:51:14,069 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:51:22,972 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:51:26,137 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:51:28,302 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-16 09:54:59,025 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-16 09:54:59,028 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-16 09:54:59,242 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-16 09:54:59,343 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-16 09:55:00,019 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-16 09:55:00,100 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-16 09:55:04,062 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:55:14,621 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- FAILED -------------------------- 
+2020-08-16 09:55:17,299 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:55:26,014 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete -  -------------------------- PASSED -------------------------- 
+2020-08-16 09:55:26,017 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-16 10:04:25,312 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-16 10:04:25,314 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-16 10:04:25,532 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-16 10:04:25,641 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-16 10:04:26,316 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-16 10:04:26,393 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-16 10:04:50,532 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-16 13:33:31,903 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-16 13:33:31,906 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-16 13:33:32,125 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-16 13:33:32,243 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-16 13:33:33,000 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-16 13:33:33,150 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-16 13:34:36,462 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-16 13:37:36,160 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-16 13:37:36,164 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-16 13:37:36,359 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-16 13:37:36,450 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-16 13:37:37,114 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-16 13:37:37,181 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-16 13:38:14,358 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 00:43:51,152 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 00:43:51,196 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 00:43:51,456 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 00:43:51,552 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 00:43:52,749 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 00:43:52,821 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 00:44:47,564 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 00:50:12,687 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 00:50:12,689 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 00:50:12,884 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 00:50:12,979 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 00:50:13,642 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 00:50:13,713 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 00:51:09,460 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 00:52:36,014 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 00:52:36,017 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 00:52:36,203 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 00:52:36,300 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 00:52:36,970 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 00:52:37,034 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 00:52:48,558 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 00:54:58,805 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 00:54:58,810 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 00:54:59,081 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 00:54:59,174 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 00:54:59,841 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 00:54:59,907 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 00:55:55,813 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 01:01:33,605 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 01:01:33,607 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 01:01:33,796 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 01:01:33,894 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 01:01:34,561 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 01:01:34,630 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 01:02:28,855 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 01:03:53,110 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 01:03:53,114 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 01:03:53,317 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 01:03:53,409 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 01:03:54,083 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 01:03:54,152 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 01:04:49,201 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 01:10:06,189 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 01:10:06,192 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 01:10:06,385 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 01:10:06,475 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 01:10:07,152 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 01:10:07,219 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 01:11:02,927 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 01:14:17,083 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 01:14:17,087 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 01:14:17,278 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 01:14:17,373 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 01:14:18,046 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 01:14:18,119 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 01:15:13,450 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 01:18:38,274 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 01:18:38,278 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 01:18:38,459 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 01:18:38,562 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 01:18:39,237 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 01:18:39,314 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 01:19:36,250 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 01:23:26,443 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 01:23:26,448 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 01:23:26,638 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 01:23:26,737 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 01:23:27,427 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 01:23:27,506 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 01:24:26,845 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 01:26:54,359 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 01:26:54,362 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 01:26:54,549 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 01:26:54,651 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 01:26:55,333 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 01:26:55,406 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 01:27:29,538 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 01:30:30,892 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 01:30:30,895 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 01:30:31,088 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 01:30:31,182 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 01:30:31,861 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 01:30:31,935 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 01:31:00,785 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 07:32:30,433 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 07:32:30,468 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 07:32:30,685 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 07:32:30,779 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 07:32:31,967 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 07:32:32,039 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 07:33:08,412 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 07:42:00,017 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 07:42:00,021 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 07:42:00,199 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 07:42:00,294 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 07:42:00,968 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 07:42:01,049 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 07:43:05,167 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 07:51:52,511 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 07:51:52,515 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 07:51:52,708 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 07:51:52,805 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 07:51:53,477 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 07:51:53,544 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 07:52:59,003 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 07:57:22,926 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 07:57:22,929 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 07:57:23,115 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 07:57:23,214 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 07:57:23,879 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 07:57:23,943 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 07:58:29,638 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 08:03:13,290 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 08:03:13,294 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 08:03:13,491 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 08:03:13,586 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 08:03:14,250 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 08:03:14,317 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 08:04:16,955 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 08:05:37,232 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 08:05:37,236 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 08:05:37,450 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 08:05:37,538 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 08:05:38,215 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 08:05:38,286 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 08:06:43,329 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 08:24:54,221 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 08:24:54,225 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 08:24:54,445 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 08:24:54,556 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 08:24:55,259 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 08:24:55,343 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 08:25:45,726 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 08:37:58,656 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 08:37:58,659 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 08:37:58,878 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 08:37:58,997 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 08:37:59,768 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 08:37:59,863 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 08:39:17,116 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 08:44:07,492 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 08:44:07,496 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 08:44:07,711 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 08:44:07,841 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 08:44:08,563 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 08:44:08,646 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 08:44:36,676 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 09:00:07,670 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 09:00:07,675 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 09:00:07,890 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 09:00:08,018 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 09:00:08,728 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 09:00:08,806 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 09:00:44,212 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 09:07:05,676 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 09:07:05,680 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 09:07:05,892 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 09:07:06,005 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 09:07:06,732 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 09:07:06,815 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 09:08:16,210 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 09:35:46,202 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 09:35:46,206 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 09:35:46,423 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 09:35:46,539 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 09:35:47,271 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 09:35:47,358 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 09:36:57,448 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 10:17:58,104 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 10:17:58,107 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 10:17:58,317 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 10:17:58,431 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 10:17:59,179 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 10:17:59,262 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 10:19:50,980 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 10:20:27,964 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 10:20:27,968 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 10:20:28,214 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 10:20:28,337 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 10:20:29,079 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 10:20:29,177 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 10:22:13,369 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 10:25:19,941 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-17 10:25:19,945 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-17 10:25:20,177 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-17 10:25:20,300 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-17 10:25:21,043 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-17 10:25:21,130 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-17 10:27:03,086 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-17 10:27:03,086 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-17 10:27:03,996 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-19 16:55:30,871 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-19 16:55:30,910 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-19 16:55:31,123 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-19 16:55:31,235 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-19 16:55:32,515 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-19 16:55:32,598 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-19 16:57:18,767 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-19 16:57:18,768 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-19 16:57:19,865 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-19 17:20:06,471 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-19 17:20:06,476 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-19 17:20:06,656 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-19 17:20:06,922 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-19 17:20:07,545 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-19 17:20:07,804 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-19 17:20:14,767 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-19 17:20:14,767 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-19 17:20:16,113 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-19 18:03:06,734 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-19 18:03:06,739 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-19 18:03:06,973 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-19 18:03:07,078 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-19 18:03:07,774 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-19 18:03:07,864 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-19 18:04:42,340 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-19 18:04:42,341 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-19 18:04:43,168 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-19 18:06:10,803 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-19 18:06:10,809 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-19 18:06:11,033 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-19 18:06:11,137 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-19 23:36:42,142 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-19 23:36:42,270 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-19 23:36:42,505 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-19 23:36:42,618 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-19 23:36:43,329 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-19 23:36:43,444 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-19 23:38:29,212 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-19 23:38:29,212 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-19 23:38:30,078 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
