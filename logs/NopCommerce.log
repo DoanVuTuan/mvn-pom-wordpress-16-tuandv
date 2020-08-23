@@ -16,3 +16,21 @@
 2020-08-23 01:13:52,437 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
 2020-08-23 01:13:52,437 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
 2020-08-23 01:13:53,201 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-23 11:24:06,860 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-23 11:24:06,864 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-23 11:24:07,098 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-23 11:24:07,220 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-23 11:24:07,931 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-23 11:24:08,023 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-23 11:25:51,698 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-23 11:25:51,698 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-23 11:25:52,606 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-23 11:27:10,465 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-23 11:27:10,474 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-23 11:27:10,686 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-23 11:27:10,811 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-23 11:27:11,597 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-23 11:27:11,711 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-23 11:27:36,210 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-23 11:27:36,211 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-23 11:27:36,965 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------

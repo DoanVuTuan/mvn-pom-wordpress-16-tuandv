@@ -473,21 +473,7 @@ public abstract class AbstractPage {
 
 	}
 
-//	public void waitUntilJSReady(WebDriver driver) {
-//		explicitWait = new WebDriverWait(driver, GlobalConstants.LONG_TIMEOUT);
-//		jsExecutor = (JavascriptExecutor) driver;
-//		try {
-//			ExpectedCondition <Boolean> jsLoad = jsExecutor.executeScript("return document.readyState").toString().equals("complete");
-//			
-//			boolean jsReady = jsExecutor.executeScript("return document.readyState").toString().equals("complete");
-//			
-//			if(!jsReady) {
-//				explicitWait.until(jsLoad);
-//			}
-//		} catch (WebDriverException ignored) {
-//			
-//		}
-//	}
+
 
 	/* Sort ASC */
 
