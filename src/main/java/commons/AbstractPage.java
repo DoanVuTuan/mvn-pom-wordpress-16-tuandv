@@ -465,15 +465,15 @@ public abstract class AbstractPage {
 
 	public boolean isImageLoaded(WebDriver driver, String locator, String... values) {
 		jsExecutor = (JavascriptExecutor) driver;
-		boolean status = (boolean) jsExecutor.executeScript("return arguments[0].complete && typeof arguments[0]" + ".naturalWidth !='undefined' && arguments[0]" + ".naturalWidth > 0", findElementByXpath(driver, castToObject(locator, values)));
+		boolean status = (boolean) jsExecutor.executeScript("return arguments[0].complete && typeof arguments[0]"
+				+ ".naturalWidth !='undefined' && arguments[0]"
+				+ ".naturalWidth > 0", findElementByXpath(driver, castToObject(locator, values)));
 		if (status) {
 			return true;
 		}
 		return false;
 
 	}
-
-
 
 	/* Sort ASC */
 
@@ -774,7 +774,7 @@ public abstract class AbstractPage {
 		}
 		fullFileName = fullFileName.trim();
 		sendkeyToElement(driver, AbstractWordpressPageUI.UPLOAD_FILE_TYPE, fullFileName);
-		sleepInSeconds(1);
+		//sleepInSeconds(1);
 	}
 
 	public boolean areFileUplaodedDisplayed(WebDriver driver, String... fileNames) {

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/04-Maven Automation Framework.iml" filepath="$PROJECT_DIR$/04-Maven Automation Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvn-pom-wordpress-16-tuandv.iml" filepath="$PROJECT_DIR$/mvn-pom-wordpress-16-tuandv.iml" />
     </modules>
   </component>

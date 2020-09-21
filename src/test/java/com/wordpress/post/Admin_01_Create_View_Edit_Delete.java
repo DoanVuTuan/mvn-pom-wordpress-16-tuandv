@@ -1,6 +1,7 @@
 package com.wordpress.post;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
@@ -55,6 +56,7 @@ public class Admin_01_Create_View_Edit_Delete extends AbstractTest {
 		dashboardAdminPage = loginAdminPage.clickToContinueOrLoginButton();
 		showBrowserConsoleLogs(driver);
 		log.info("Dasboard Page : Step 01 - Verify header text displayed");
+
 		verifyTrue(dashboardAdminPage.isHeaderTextDisplayed());
 
 	}

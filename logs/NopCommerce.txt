@@ -1,9 +1,9 @@
-2020-08-23 11:27:10,465 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
-2020-08-23 11:27:10,474 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
-2020-08-23 11:27:10,686 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
-2020-08-23 11:27:10,811 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
-2020-08-23 11:27:11,597 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
-2020-08-23 11:27:11,711 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
-2020-08-23 11:27:36,210 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
-2020-08-23 11:27:36,211 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
-2020-08-23 11:27:36,965 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-08-26 00:35:40,244 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Pre-condition : Step 01 - Navigate to login page
+2020-08-26 00:35:40,254 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 01 - Input to 'Email' textbox 
+2020-08-26 00:35:40,472 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 02 - Click to 'Continue' button 
+2020-08-26 00:35:40,605 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 03 - Input to 'Password' textbox 
+2020-08-26 00:35:41,325 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Login Page : Step 04 - Navigate to Dashboard page
+2020-08-26 00:35:41,440 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Dasboard Page : Step 01 - Verify header text displayed
+2020-08-26 00:37:41,854 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - Post-condition : Close browser
+2020-08-26 00:37:41,854 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-08-26 00:37:42,791 INFO  com.wordpress.post.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------

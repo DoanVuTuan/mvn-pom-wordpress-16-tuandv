@@ -1,5 +1,6 @@
 package commons;
 
+import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.Collections;
 import java.util.Date;
@@ -10,6 +11,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.apache.log4j.ConsoleAppender;
 import org.joda.time.DateTime;
 import org.joda.time.DateTimeZone;
 import org.openqa.selenium.WebDriver;
@@ -24,6 +26,7 @@ import org.testng.Assert;
 import org.testng.Reporter;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.testng.annotations.BeforeSuite;
 
 public abstract class AbstractTest {
 	private WebDriver driver;
@@ -76,6 +79,7 @@ public abstract class AbstractTest {
 			/*Disabled info bar*/
 			options.setExperimentalOption("useAutomationExtension", false);
 			options.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
+			
 			options.setExperimentalOption("prefs", chromePerfs);
 			driver = new ChromeDriver(options);
 		} else if (browserName.equalsIgnoreCase("edge")) {
@@ -258,5 +262,36 @@ public abstract class AbstractTest {
 		Date date = new Date();
 		return formatter.format(date);
 	}
+
+    public   WebDriver getDriver(){
+		return driver;
+	};
+
+	@BeforeSuite
+	private void deleteAllFileInReportNGSreenshot(){
+		System.out.println("----------Start delete file in folder----------");
+		deleteAllFileInFolder();
+		System.out.println("----------End delete file in folder----------");
+	}
+	private void deleteAllFileInFolder(){
+		try {
+			String workingDir = System.getProperty("user.dir");
+			String pathFolderDowload = workingDir +"\\ReportNGScreenShots";
+			File file = new File(pathFolderDowload);
+			File[] listOfFiles = file.listFiles();
+			for (int i = 0 ; i < listOfFiles.length; i++){
+				if (listOfFiles[i].isFile()){
+					System.out.println(listOfFiles[i].getName());
+					new File(listOfFiles[i].toString()).delete();
+				}
+			}
+
+		}catch (Exception e){
+			System.out.println(e.getMessage());
+		}
+	}
+
+
+
 
 }
